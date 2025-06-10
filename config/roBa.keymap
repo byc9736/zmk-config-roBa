@@ -138,6 +138,5 @@ scroll_up_down: behavior_sensor_rotate_mouse_wheel_up_down {
 &trans  &trans        &trans        &trans        &trans  &trans      &trans       &trans                                                    &trans
             >;
         };
-        sensor-bindings = <&scroll_up_down>;
     };
 };
